@@ -1,0 +1,7 @@
+The notation below means the matrix has to be multiplied by 1000
+
+ 1.0e+03 *
+
+    2.3940   -0.0000    0.9324
+         0    2.3981    0.6283
+         0         0    0.0010
